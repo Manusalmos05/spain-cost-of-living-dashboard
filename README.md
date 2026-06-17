@@ -1,3 +1,7 @@
+<img width="1337" height="742" alt="dashboard" src="https://github.com/user-attachments/assets/d689da71-6f35-42c5-8875-787930d0cb97" />
+
+
+
 # 📊 España: Evolución del Coste de Vida
 
 ## Sobre el proyecto
